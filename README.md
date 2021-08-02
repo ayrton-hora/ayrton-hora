@@ -23,7 +23,7 @@ Currently a computer science student at the [Federal University of Sergipe (UFS)
 
 📌 Methodical
 
-🍂 Good mood
+🍂 Abstraction
 
 
 ## Porfolio 
