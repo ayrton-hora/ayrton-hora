@@ -9,11 +9,6 @@ Currently a computer science student at the [Federal University of Sergipe (UFS)
 - [X] English...
 - [X] Markdown...
 - [X] Portfolio...
-- [ ] SQL, PostgreSQL...
-- [ ] Front-end (HTML, CSS, JS, Bootstrap)...
-- [ ] Back-end (Heroku, Node.js, Firebase)...
-- [ ] Mobile (Flutter)..
-
 
 ## Values 
 🍂 Abstraction
@@ -36,8 +31,6 @@ Currently a computer science student at the [Federal University of Sergipe (UFS)
 **GitHub:** https://github.com/ayrton-hora
 
 **LinkedIn:** https://www.linkedin.com/in/ayrtonfh/
-
-**Discord:** TonTon#9308
 
 <!---
 ayrton-hora/ayrton-hora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
