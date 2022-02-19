@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ayrton, call me TonTon or just Ton. 😸
 
-Currently a computer science student at the [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil. I'm going to seventh period factorial, approximately three and a half years of college...and more...
+Currently a computer science student at the [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil. Approximately four years of college and gaining knowledge.
 
 ## Developing
 - [X] College...
