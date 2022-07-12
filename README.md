@@ -2,25 +2,28 @@
 
 ### Hi, I'm Ayrton, call me TonTon or just Ton. 😸
 
-Currently a computer science student at the [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil. Approximately four years of college and gaining knowledge.
+Currently a Computer Science student at [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil.
+
+With approximately four years of college, I currently work as a Database Analyst and also play the role of Scrum Master and I try to get the most out of both experiences in this part of my journey. 
+
+Software Engineering, Database are the areas that captivate me the most. Eventually I'll be breaking through the Back-end world and DevOps. 
 
 ## Developing
 - [X] College...
 - [X] English...
-- [X] Markdown...
 - [X] Portfolio...
+- [X] Communication...
 
 ## Values 
 🍂 Abstraction
-
-💬 Communicative
 
 📓 Perfectionist
 
 ☁️ Organized
 
-📌 Methodical
+💬 Communicative
 
+📌 Methodical
 
 ## Porfolio 
 :octocat: https://ayrton-hora.github.io/Portfolio/
@@ -30,7 +33,7 @@ Currently a computer science student at the [Federal University of Sergipe (UFS)
 
 **GitHub:** https://github.com/ayrton-hora
 
-**LinkedIn:** https://www.linkedin.com/in/ayrtonfh/
+**LinkedIn:** https://www.linkedin.com/in/ayrtonhora/
 
 <!---
 ayrton-hora/ayrton-hora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
