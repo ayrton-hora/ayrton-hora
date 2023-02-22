@@ -1,12 +1,12 @@
 # Ayrton Hora (@ayrton-hora)
 
-### Hi, I'm Ayrton, call me TonTon or just Ton. 😸
+### Hi, I'm Ayrton, call me TonTon or just Ton.
 
 Currently a Computer Science student at [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil.
 
-With approximately four years of college, I currently work as a Database Analyst and also play the role of Scrum Master and I try to get the most out of both experiences in this part of my journey. 
+With approximately four and a half years of college, I currently work as a System Analyst and also play the role of Product Owner and I try to get the most out of both experiences in this part of my journey. 
 
-Software Engineering, Database are the areas that captivate me the most. Eventually I'll be breaking through the Back-end world and DevOps. 
+Software Engineering, Databases and Cloud Computing are the areas that captivate me the most. Eventually I'll be breaking through the Back-end world and DevOps. 
 
 ## Developing
 - [X] College...
