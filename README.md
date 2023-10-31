@@ -1,6 +1,6 @@
 # (@ayrton-hora)
 
-### Hi, I'm Ayrton Hora, call me TonTon or just Ton.
+### Hi, I'm Ayrton Hora, call me Ton.
 
 Currently a Computer Science Student at [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil.
 
