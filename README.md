@@ -32,14 +32,7 @@ Software Engineering, Databases and Cloud Computing are the areas that captivate
 
 📌 Methodical
 
-## Porfolio 
-:octocat: https://ayrton-hora.github.io/Portfolio/
-
 ## Find me :globe_with_meridians:
-**E-mail:** ayrtonfh@gmail.com
-
-**GitHub:** https://github.com/ayrton-hora
-
 **LinkedIn:** https://www.linkedin.com/in/ayrtonhora/
 
 <!---
