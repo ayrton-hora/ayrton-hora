@@ -1,12 +1,15 @@
 # (@ayrton-hora)
 
-### Hi, I'm Ayrton Hora, call me Ton.
+### Hi, I'm Ayrton Hora.
 
 Currently a Computer Science Student at [Federal University of Sergipe (UFS)](https://www.ufs.br/), Brazil.
 
-With approximately four and a half years of college, I currently a Software Engineer also playing the role of Tech Lead and I trying to get the most out of both experiences in this part of my journey. 
+I currently a Software Engineer and acting as Tech Director at [Sergipe State Attorneys General Office](https://pge.se.gov.br/). 
 
-Software Engineering, Databases and Cloud Computing are the areas that captivate me the most. Eventually I'll be breaking through the Back-end world and DevOps. 
+Both areas were the ones that captured me mostly. On my hard disk I'll never forget some markable feelings like my first S.E discipline and my first contact as a I.T Team Leader. 
+Software Engineering, Databases and Cloud Computing instigates me. Eventually I'll be breaking through the Back-end world, also dealing with Networks, Algorithms and DevOps culture. 
+
+For me, technology don't make sense without human beings. Abstract, plan, implement, implant and cativate!
 
 ## On Progress:
 1. College
