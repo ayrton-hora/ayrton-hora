@@ -12,13 +12,14 @@ Software Engineering, Databases and Cloud Computing instigates me. Eventually I'
 For me, technology don't make sense without human beings. Abstract, plan, implement, implant and cativate!
 
 ## On Progress:
-1. College
-2. English Certification
-3. Portfolio
-4. Communication
-5. Software Engineer career
+1. Software Engineer career
+2. High level English certification
+3. Portfolio building
+4. People leadership and management knowledge
 
 ## Planned:
+ - Law posgraduation degree;
+ - Master degree on Software Engineering;
  - Microsoft Solution Architect Certification;
  - MCP (Microsft Certified Professional) on C#;
  - Cloud Engineer Certification (AWS, IBM, Google Cloud); and
@@ -36,7 +37,7 @@ For me, technology don't make sense without human beings. Abstract, plan, implem
 📌 Methodical
 
 ## Find me :globe_with_meridians:
-**LinkedIn:** https://www.linkedin.com/in/ayrtonhora/
+**LinkedIn:** https://www.linkedin.com/in/ayrtonhora
 
 <!---
 ayrton-hora/ayrton-hora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
